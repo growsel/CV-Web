@@ -9,7 +9,7 @@
 .main{
     display: flex;
     justify-content: space-between;
-    padding: 0px 100px 50px 100px;
+    padding: 0px 100px 20px 100px;
 }
 .main_left{
     font-size:17px;
@@ -30,6 +30,8 @@
     position: absolute;
     bottom: 8px;
     left: 16px;
+    background: none;
+    color: #FFAB76;
 }
 .information{
     line-height: 40px;
